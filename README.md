@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Enterprise Software Engineering • Full-Stack Development • IT Consulting • Custom Solutions
+  Enterprise Software Engineering • Full-Stack Development • Python & Java • IT Consulting • Custom Solutions
 </p>
 
 <p align="center">
@@ -20,60 +20,79 @@
 
 ---
 
-## 💡 Who We Are
+## 💡 About Rylauq Solutions
 
 **Rylauq Solutions** is a software engineering and digital solutions company focused on building reliable, scalable, and modern technology products.
 
 We work with **startups, businesses, and teams** to transform ideas into production-ready software.
 
-> **Your Ideas → Our Engineering → Real Impact**
+> 💡 **Your Ideas → Our Engineering → Real Impact**
 
 ---
 
 ## 🚀 What We Do
 
-| 🧩 Service                    | 🔧 What We Build                                     |
-| ----------------------------- | ---------------------------------------------------- |
-| 💻 **Software Development**   | Scalable business applications & enterprise software |
-| 🌐 **Web Development**        | Modern, responsive & high-performance web platforms  |
-| ⚙️ **Custom Solutions**       | Software tailored to specific business requirements  |
-| 🔌 **Backend Engineering**    | APIs, business logic & scalable backend systems      |
-| 🎨 **Full-Stack Development** | Complete frontend + backend applications             |
-| 🤝 **Freelance Projects**     | Project-based development & technical partnerships   |
-| 💡 **IT Consulting**          | Technical guidance, architecture & implementation    |
+| 🧩 Service                    | 🔧 What We Build                                        |
+| ----------------------------- | ------------------------------------------------------- |
+| 💻 **Software Development**   | Scalable business applications & enterprise software    |
+| 🌐 **Web Development**        | Modern, responsive & high-performance web platforms     |
+| 🐍 **Python Development**     | APIs, automation, backend systems & custom applications |
+| ☕ **Java Development**        | Enterprise applications & Spring Boot solutions         |
+| ⚙️ **Custom Solutions**       | Software tailored to specific business requirements     |
+| 🔌 **Backend Engineering**    | REST APIs, business logic & scalable backend systems    |
+| 🎨 **Full-Stack Development** | Complete frontend + backend applications                |
+| 🤖 **Automation**             | Business process automation & custom scripting          |
+| 🤝 **Freelance Projects**     | Project-based development & technical partnerships      |
+| 💡 **IT Consulting**          | Technical guidance, architecture & implementation       |
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Backend
+### 🐍 Python & Backend
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot" alt="Spring Boot"/>
 </p>
 
-**Java • Spring Boot • REST APIs • MySQL • Backend Architecture**
+**Python • Django • Flask • Java • Spring Boot • REST APIs • Backend Architecture**
 
-### Frontend
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45"/>
+### 🌐 Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" title="Material UI" alt="Material UI"/>
 </p>
 
 **React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Material UI**
 
-### Development & Tools
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
+</p>
+
+**MySQL • Database Design • SQL • Data Management**
+
+---
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub"/>
 </p>
 
 **Git • GitHub • Version Control • Agile Development**
@@ -124,26 +143,49 @@ A full-stack platform designed to connect developers through an interactive and 
 
 ---
 
-## 🎯 Our Engineering Focus
+## 🐍 Python Solutions
+
+We also build **Python-powered solutions** for businesses and development teams.
+
+### Areas We Work With
 
 ```text
-┌──────────────────────────────────────────────┐
-│                 RYLAUQ SOLUTIONS             │
-├──────────────────────────────────────────────┤
-│                                              │
-│   💡 Idea                                    │
-│      ↓                                       │
-│   🏗️ Architecture                            │
-│      ↓                                       │
-│   💻 Development                             │
-│      ↓                                       │
-│   🧪 Testing                                 │
-│      ↓                                       │
-│   🚀 Deployment                              │
-│      ↓                                       │
-│   📈 Continuous Improvement                  │
-│                                              │
-└──────────────────────────────────────────────┘
+🐍 Python Development
+        ↓
+🌐 Web Applications
+        ↓
+🔌 REST APIs
+        ↓
+⚙️ Automation & Scripting
+        ↓
+📊 Data Processing
+        ↓
+🧩 Custom Business Solutions
+```
+
+**Python • Flask • Django • APIs • Automation • Scripting • Data Processing**
+
+---
+
+## 🎯 Our Engineering Approach
+
+```text
+                 💡 IDEA
+                    │
+                    ▼
+             🏗️ ARCHITECTURE
+                    │
+                    ▼
+             💻 DEVELOPMENT
+                    │
+                    ▼
+                🧪 TESTING
+                    │
+                    ▼
+              🚀 DEPLOYMENT
+                    │
+                    ▼
+            📈 IMPROVEMENT
 ```
 
 We believe great software should be:
@@ -161,19 +203,23 @@ We are open to:
 * 🚀 Startup Projects
 * 💼 Business Software
 * 🌐 Web Applications
-* ⚙️ Custom Development
+* 🐍 Python Development
+* ☕ Java & Spring Boot Development
+* ⚙️ Custom Software
+* 🔌 API Development
+* 🤖 Automation Projects
 * 🤝 Freelance Projects
 * 🔗 Technology Partnerships
 * 💡 Product Development
 
-### Let's build something meaningful together.
+### Let's build something meaningful together. 🚀
 
 <p align="center">
   <a href="https://rylauq.pages.dev/">
     <img src="https://img.shields.io/badge/🌐_Visit_Website-5B2EFF?style=for-the-badge" />
   </a>
   <a href="mailto:rylauq@outlook.com">
-    <img src="https://img.shields.io/badge/📩_Contact_Us-00A8E8?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📩_Contact_Us-00A8E8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
@@ -201,7 +247,16 @@ We are open to:
 
 </p>
 
+---
+
 <p align="center">
-  <b>RYLAUQ SOLUTIONS</b><br>
+  <b>RYLAUQ SOLUTIONS</b>
+</p>
+
+<p align="center">
   <i>Ideas Into Reality</i>
+</p>
+
+<p align="center">
+  <sub>Building reliable software. Solving real problems. Creating digital impact.</sub>
 </p>
